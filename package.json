@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-olark",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Olark Embedding -- Make Customers Happy, One Chat at a Time",
   "main": "library.js",
   "repository": {
