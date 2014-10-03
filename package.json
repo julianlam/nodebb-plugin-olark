@@ -1,25 +1,25 @@
 {
-  "name": "nodebb-plugin-quickstart",
-  "version": "0.0.1",
-  "description": "A starter kit for quickly creating NodeBB plugins",
+  "name": "nodebb-plugin-olark",
+  "version": "0.0.0",
+  "description": "Olark Embedding -- Make Customers Happy, One Chat at a Time",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart"
+    "url": "https://github.com/julianlam/nodebb-plugin-olark"
   },
   "keywords": [
     "nodebb",
     "plugin",
-    "quickstart",
-    "shell"
+    "olark",
+    "chat"
   ],
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "julianlam",
+    "email": "julian@nodebb.org"
   },
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart/issues"
+    "url": "https://github.com/julianlam/nodebb-plugin-olark/issues"
   },
   "readmeFilename": "README.md"
 }

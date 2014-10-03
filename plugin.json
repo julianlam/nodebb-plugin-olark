@@ -1,8 +1,8 @@
 {
-	"id": "nodebb-plugin-quickstart",
-	"name": "Quickstart Plugin for NodeBB",
-	"description": "A starter kit for quickly creating NodeBB plugins",
-	"url": "https://github.com/NodeBB/nodebb-plugin-quickstart",
+	"id": "nodebb-plugin-olark",
+	"name": "Olark Embedding",
+	"description": "Olark Embedding -- Make Customers Happy, One Chat at a Time",
+	"url": "https://github.com/NodeBB/nodebb-plugin-olark",
 	"library": "./library.js",
 	"hooks": [
 		{
@@ -11,12 +11,6 @@
 		{
 			"hook": "filter:admin.header.build", "method": "addAdminNavigation"
 		}
-	],
-	"staticDirs": {
-		"static": "./static"
-	},
-	"less": [
-		"static/style.less"
 	],
 	"scripts": [
 		"static/lib/main.js"
